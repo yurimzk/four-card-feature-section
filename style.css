@@ -21,3 +21,31 @@ body {
     font-family: 'Poppins', sans-serif;
     font-size: 1.5rem;
 }
+
+#app {
+    display: grid;
+    height: 100vh;
+    margin: 4.0rem 2.4rem;
+}
+
+h1 {
+    font-weight: 200;
+    color: var(--very-dark-blue);
+}
+
+h3, p {
+    color: var(--grayish-blue);
+}
+
+h3 {
+    font-weight: 400;
+}
+
+h2, span {
+    color: var(--very-dark-blue);
+    font-weight: 600;
+}
+
+.card {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
