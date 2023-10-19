@@ -96,6 +96,10 @@ h2, span {
         margin: 4.0rem 8.0rem;
     }
 
+    .heading {
+        margin: 0 37.0rem;
+    }
+
     #cards-section {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
