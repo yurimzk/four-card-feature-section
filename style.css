@@ -100,6 +100,10 @@ h2, span {
         margin: 0 37.0rem;
     }
 
+    h1 {
+        margin: 0 7.0rem;
+    }
+
     #cards-section {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
